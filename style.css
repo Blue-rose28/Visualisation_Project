@@ -1,0 +1,26 @@
+p {
+    font-family: 'Helvetica', sans-serif;
+    font-style: Light;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+body {
+    background-color: #1cc99d;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background-color: #3b3d56;
+    color: #b91414;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.panel-body {
+  background-color: #5962c9;
+  color: #bea8a8;
+}
