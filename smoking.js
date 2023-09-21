@@ -1,5 +1,5 @@
 // Set URL for Data Import
-const url = "";
+const url = "/api/v1.0/pop_gender";
 
 // Promise Pending
 const dataPromise = d3.json(url);
